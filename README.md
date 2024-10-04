@@ -1,1 +1,1 @@
-# https://filon08/github.com/testrepoapp.git
+# https://filon08.github.com/testrepoapp.git
